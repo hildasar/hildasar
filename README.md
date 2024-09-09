@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hildasar
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently trying to finish CS50
-- 📫 How to reach me @h-sarpong@outlook.com
 - 😄 Pronouns: She/Her 
 
 <!---
